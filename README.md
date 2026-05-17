@@ -14,11 +14,11 @@ This repository serves as a digital lab manual for my DSA journey. Each solution
 
 | Step | Topic | Status | Code Archive |
 | :--- | :--- | :--- | :--- |
-| 01 | Basics (STL, Math, Recursion) | 🔄 Learning | [Browse Folder](./Step%2001%20-%20Basics/) |
-| 02 | Sorting Techniques | ⏳ Pending | [Browse Folder](./Step%2002%20-%20Sorting/) |
-| 03 | Array Problems | ⏳ Pending | [Browse Folder](./Step%2003%20-%20Arrays/) |
-| 04 | Binary Search | ⏳ Pending | [Browse Folder](./Step%2004%20-%20Binary/) |
-| 05 | Strings | ⏳ Pending | [Browse Folder](./Step%2005%20-%20Strings/) |
+| 01 | Basics (STL, Math, Recursion) | 🔄 Learning | [Browse Folder](./Step01-Basics/) |
+| 02 | Sorting Techniques | ⏳ Pending | [Browse Folder](./Step02-Sorting/) |
+| 03 | Array Problems | ⏳ Pending | [Browse Folder](./Step03-Arrays/) |
+| 04 | Binary Search | ⏳ Pending | [Browse Folder](./Step04-Binary/) |
+| 05 | Strings | ⏳ Pending | [Browse Folder](./Step05-Strings/) |
 
 ---
 
