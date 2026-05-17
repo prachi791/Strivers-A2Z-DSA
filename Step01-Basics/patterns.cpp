@@ -57,7 +57,7 @@ void pattern3(int n)
         cout << endl;
     }
 }
-
+ 
 /*
     1
     22
